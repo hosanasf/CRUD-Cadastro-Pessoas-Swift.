@@ -3,7 +3,7 @@ CRUD - Cadastro de Pessoas em Swift
 
 Descrição
 
-Projeto acadêmico desenvolvido em Swift para praticar operações CRUD (Create, Read, Update e Delete) por meio de um sistema de cadastro de pessoas.
+Projeto desenvolvido em Swift para praticar operações CRUD (Create, Read, Update e Delete) por meio de um sistema de cadastro de pessoas.
 
 Funcionalidades
 
